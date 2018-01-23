@@ -1,6 +1,6 @@
 {
   "name": "names-microlib",
-  "version": "1.0.1",
+  "version": "1.1.0-beta.0",
   "description": "Get random names",
   "main": "src/index.js",
   "scripts": {
